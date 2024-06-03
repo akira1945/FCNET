@@ -1,0 +1,15 @@
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Business\bin\Debug\net8.0\FC.ClickVende.Business.deps.json
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Business\bin\Debug\net8.0\FC.ClickVende.Business.dll
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Business\bin\Debug\net8.0\FC.ClickVende.Business.pdb
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Business\bin\Debug\net8.0\FC.ClickVende.Data.dll
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Business\bin\Debug\net8.0\FC.ClickVende.Data.pdb
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Business\obj\Debug\net8.0\FC.ClickVende.Business.csproj.AssemblyReference.cache
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Business\obj\Debug\net8.0\FC.ClickVende.Business.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Business\obj\Debug\net8.0\FC.ClickVende.Business.AssemblyInfoInputs.cache
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Business\obj\Debug\net8.0\FC.ClickVende.Business.AssemblyInfo.cs
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Business\obj\Debug\net8.0\FC.ClickVende.Business.csproj.CoreCompileInputs.cache
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Business\obj\Debug\net8.0\FC.Click.A0C92A48.Up2Date
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Business\obj\Debug\net8.0\FC.ClickVende.Business.dll
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Business\obj\Debug\net8.0\refint\FC.ClickVende.Business.dll
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Business\obj\Debug\net8.0\FC.ClickVende.Business.pdb
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Business\obj\Debug\net8.0\ref\FC.ClickVende.Business.dll

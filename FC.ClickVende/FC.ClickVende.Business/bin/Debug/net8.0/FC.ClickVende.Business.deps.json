@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "FC.ClickVende.Business/1.0.0": {
+        "dependencies": {
+          "FC.ClickVende.Data": "1.0.0"
+        },
+        "runtime": {
+          "FC.ClickVende.Business.dll": {}
+        }
+      },
+      "FC.ClickVende.Data/1.0.0": {
+        "runtime": {
+          "FC.ClickVende.Data.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FC.ClickVende.Business/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "FC.ClickVende.Data/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

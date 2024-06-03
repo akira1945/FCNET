@@ -1,0 +1,11 @@
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Data\bin\Debug\net8.0\FC.ClickVende.Data.deps.json
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Data\bin\Debug\net8.0\FC.ClickVende.Data.dll
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Data\bin\Debug\net8.0\FC.ClickVende.Data.pdb
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Data\obj\Debug\net8.0\FC.ClickVende.Data.GeneratedMSBuildEditorConfig.editorconfig
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Data\obj\Debug\net8.0\FC.ClickVende.Data.AssemblyInfoInputs.cache
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Data\obj\Debug\net8.0\FC.ClickVende.Data.AssemblyInfo.cs
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Data\obj\Debug\net8.0\FC.ClickVende.Data.csproj.CoreCompileInputs.cache
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Data\obj\Debug\net8.0\FC.ClickVende.Data.dll
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Data\obj\Debug\net8.0\refint\FC.ClickVende.Data.dll
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Data\obj\Debug\net8.0\FC.ClickVende.Data.pdb
+G:\Ropositorio Geral\FCNET\FC.ClickVende\FC.ClickVende.Data\obj\Debug\net8.0\ref\FC.ClickVende.Data.dll

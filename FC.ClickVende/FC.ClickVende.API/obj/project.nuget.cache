@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "U2izH/PcCH0+YHBhCO+whP6BfgsZiRauSEZ5jLqIf/aV5LcKJGHGTAB53icna8pQM8fACUjeqyABME5hF2DOAw==",
+  "success": true,
+  "projectFilePath": "G:\\Ropositorio Geral\\FCNET\\FC.ClickVende\\FC.ClickVende.API\\FC.ClickVende.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\akira\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
+    "C:\\Users\\akira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\akira\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\akira\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\akira\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\akira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\akira\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
