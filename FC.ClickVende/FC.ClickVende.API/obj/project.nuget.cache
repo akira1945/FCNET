@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "U2izH/PcCH0+YHBhCO+whP6BfgsZiRauSEZ5jLqIf/aV5LcKJGHGTAB53icna8pQM8fACUjeqyABME5hF2DOAw==",
+  "dgSpecHash": "WLeRLItMXRh5UL6K3F15wjhIsy0AtB4ZXfQ866HvqWiHzImNa3JAYF/wg3Nj0aoVAgdk2dxcqTfNVjYuPXqbwg==",
   "success": true,
-  "projectFilePath": "G:\\Ropositorio Geral\\FCNET\\FC.ClickVende\\FC.ClickVende.API\\FC.ClickVende.API.csproj",
+  "projectFilePath": "G:\\Ropositorio Geral\\FCNET\\FCNET\\FC.ClickVende\\FC.ClickVende.API\\FC.ClickVende.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\akira\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.4\\microsoft.aspnetcore.openapi.8.0.4.nupkg.sha512",
     "C:\\Users\\akira\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
